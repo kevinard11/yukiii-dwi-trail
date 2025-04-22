@@ -59,7 +59,7 @@ $ python smart_traffic_light_dt.py --show-crossed --show-count --weather-update 
 ### Contributors
 
 - Muhammad Kevin Ardela - [kevinard11](https://github.com/kevinard11)
-- Mohammad Febri Ramadlan
+- Mohammad Febri Ramadlan - [mohammadfebrir](https://github.com/mohammadfebrir)
 - Rahayu Utari
 
 ---
